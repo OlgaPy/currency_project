@@ -1,0 +1,14 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.log
+*.sqlite3
+*.db
+*.db-journal
+*.bak
+*.swp
+*.swo
+.DS_Store
+.idea/
