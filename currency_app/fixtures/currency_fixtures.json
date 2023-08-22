@@ -1,0 +1,23 @@
+[
+  {
+    "model": "currency_app.currency",
+    "pk": 1,
+    "fields": {
+      "code": "EUR"
+    }
+  },
+  {
+    "model": "currency_app.currency",
+    "pk": 2,
+    "fields": {
+      "code": "USD"
+    }
+  },
+  {
+    "model": "currency_app.currency",
+    "pk": 3,
+    "fields": {
+      "code": "BTC"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "model": "currency_app.ratesource",
+    "pk": 1,
+    "fields": {
+      "code": "Bank"
+    }
+  },
+  {
+    "model": "currency_app.ratesource",
+    "pk": 2,
+    "fields": {
+      "code": "Exchange"
+    }
+  }
+]
